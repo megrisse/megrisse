@@ -1,5 +1,5 @@
 
-#### MY 42 STATS
+#### 🧑🏽‍💻 MY 42  & GITHUB STATS
 
 [![MEGRISSE STATS](https://badge.mediaplus.ma/binary/megrisse)](https://github.com/megrisse)
 <br>
