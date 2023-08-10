@@ -1,7 +1,7 @@
 
 #### 🧑🏽‍💻 MY 42  & GITHUB STATS
 
-[![MEGRISSE STATS](https://badge.mediaplus.ma/binary/megrisse)](https://github.com/megrisse)
+[![MEGRISSE STATS](https://badge.mediaplus.ma/levi/megrisse)](https://github.com/oakoudad/badge42)
 <br>
 
 [![MEGRISSE GitHub STATS](https://github-readme-stats.vercel.app/api?username=megrisse&show_icons=true&theme=radical)](https://github.com/megrisse)
