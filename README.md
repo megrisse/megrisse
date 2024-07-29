@@ -3,7 +3,7 @@
 ![Pro Badge](https://img.shields.io/badge/Pro-Profile-blue)
 
 ## About Me
-- 💼 Full-stack developer
+- 💼 Software Engineer
 - 📫 How to reach me: [mgrissen9@gmail.com](mailto:mgrissen9@gmail.com)
 
 ## My Skills
